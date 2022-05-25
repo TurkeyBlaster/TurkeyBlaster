@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ananth Madan, aka @TurkeyBlaster
 - 📓 I'm a sophomore transfer at UIUC CS
-- 👀 I’m interested in machine learning, mainly reinforcement learning. I'm also interested in low-level programming.
-- 🌱 I’m currently learning CUDA, embedded systems OS design, and genetic algorithms.
+- 👀 I’m interested in machine learning, mainly reinforcement learning. I'm also interested in low-level programming and low-level deep learning.
+- 🌱 I’m currently learning CUDA, embedded systems OS design, and reinforcement learning.
 - 📫 How to reach me: ananthmadan03@gmail.com
 
 <!---
